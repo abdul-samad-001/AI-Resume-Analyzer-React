@@ -1,7 +1,5 @@
 # AI Resume Analyzer - React
 
-![AI Resume Analyzer](https://raw.githubusercontent.com/yourusername/AI-Resume-Analyzer-React/main/screenshots/light-mode.png)
-
 **AI-powered resume analyzer that runs 100% in your browser.** Get instant, actionable feedback on structure, keywords, readability, and more—no API keys required for core functionality.
 
 ---
