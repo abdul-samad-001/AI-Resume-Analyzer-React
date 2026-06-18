@@ -1,4 +1,3 @@
-```markdown
 # AI Resume Analyzer - React
 
 ![AI Resume Analyzer](https://raw.githubusercontent.com/yourusername/AI-Resume-Analyzer-React/main/screenshots/light-mode.png)
