@@ -6,16 +6,16 @@
 
 ## ✨ Features
 
-✅ **Multi-format Support** – Upload PDF, DOCX, DOC, TXT, or Markdown files
-✅ **AI-Powered Analysis** – Optional Google Gemini or OpenAI integration for deeper insights
-✅ **ATS Optimization** – Check for Applicant Tracking System compatibility
-✅ **Keyword Matching** – Compare against job descriptions or role templates
-✅ **Readability Analysis** – Flesch Reading Ease, grade level, and sentence metrics
-✅ **Actionable Suggestions** – Prioritized, actionable recommendations
-✅ **Visual Dashboard** – Interactive score ring, skill distribution charts, and more
-✅ **Offline Mode** – Works fully without internet for heuristic analysis
-✅ **Dark/Light Mode** – Customizable UI with system preference detection
-✅ **Confetti Celebration** – Get confetti when you score 80+!
+✅ **Multi-format Support** – Upload PDF, DOCX, DOC, TXT, or Markdown files 
+✅ **AI-Powered Analysis** – Optional Google Gemini or OpenAI integration for deeper insights 
+✅ **ATS Optimization** – Check for Applicant Tracking System compatibility 
+✅ **Keyword Matching** – Compare against job descriptions or role templates 
+✅ **Readability Analysis** – Flesch Reading Ease, grade level, and sentence metrics 
+✅ **Actionable Suggestions** – Prioritized, actionable recommendations 
+✅ **Visual Dashboard** – Interactive score ring, skill distribution charts, and more 
+✅ **Offline Mode** – Works fully without internet for heuristic analysis 
+✅ **Dark/Light Mode** – Customizable UI with system preference detection 
+✅ **Confetti Celebration** – Get confetti when you score 80+! 
 
 ---
 
