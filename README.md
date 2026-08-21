@@ -2,7 +2,7 @@
 
 **AI-powered resume analyzer that runs 100% in your browser.** Get instant, actionable feedback on structure, keywords, readability, and more—no API keys required for core functionality.
 
----
+--- 
 
 ## ✨ Features
 
